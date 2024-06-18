@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Filip Gargov.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FGargov&label=Profile%20views&color=0e75b6&style=flat" alt="x-normalize" /> </p>
 
 
