@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip Gargov</h1>
-<h3 align="center">A passionate junior QA engineer from Bulgaria.</h3>
+<h3 align="center">A dedicated and enthusiastic Junior QA Engineer with a solid foundation in manual and automated testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fgargov&label=Profile%20views&color=0e75b6&style=flat" alt="fgargov" /> </p>
 
