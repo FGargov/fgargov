@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip Gargov</h1>
-<h3 align="center">A dedicated and enthusiastic Junior QA Engineer with a solid foundation in manual and automated testing.
-                    Currently, I am proactively steering my expertise towards a specialization in DevOps principles and practices.</h3>
+<h3 align="center">I am on my DevOps journey, currently exploring cloud technologies, automation and scalable infrastructure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fgargov&label=Profile%20views&color=0e75b6&style=flat" alt="fgargov" /> </p>
 
