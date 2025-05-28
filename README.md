@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip Gargov</h1>
-<h3 align="center">Currently, I am on my DevOps journey, currently exploring cloud technologies, automation and scalable infrastructure.</h3>
+<h3 align="center">Currently, I am on my DevOps journey, exploring cloud technologies, automation and scalable infrastructure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fgargov&label=Profile%20views&color=0e75b6&style=flat" alt="fgargov" /> </p>
 
